@@ -18,6 +18,7 @@ window.Vuelidate = require('vuelidate');
  */
 
 Vue.component('example-component', require('./components/ExampleComponent.vue'));
+Vue.component('intro', require('./components/9punto5Intro.vue'));
 
 Vue.use(Vuetify)
 Vue.use(Vuelidate)

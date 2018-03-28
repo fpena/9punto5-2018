@@ -32,17 +32,17 @@
                                         <v-flex text-xs-center>
                                             <img width="150" src="{{ asset('img/logo.png') }}" class="mb-3" alt="9punto5">
                                             <h3 class="display-3 mb-3">9PUNTO5</h3>
-                                            <h4 class="headline mb-3">Expande tus habilidades digitales</h4>
-                                            <h4 class="title mb-4">7 - 8 de Septiembre 2018 - Hotel Villa del R&iacute;o, Valdivia - Chile</h4>
+                                            <h4 class="headline mb-3" style="">Expande tus habilidades digitales</h4>
+                                            <h4 class="subheading mb-4">7 - 8 de Septiembre 2018 - Hotel Villa del R&iacute;o, Valdivia - Chile</h4>
 
-                                            <v-flex lg6 xs12 offset-lg3 mb-3>
+                                            <v-flex lg6 xs12 offset-lg3 mb-4>
                                                 <v-alert type="info" :value="true">
                                                     Adquiere tus tickets de forma temprana,
                                                     <a target="_blank" class="white--text" href="https://welcu.com/9punto5/9punto5-2018-expande-tus-habilidades-digitales">aquí</a>.
                                                 </v-alert>
                                             </v-flex>
 
-                                            <v-flex lg6 xs12 offset-lg3 mb-5>
+                                            <!--v-flex lg6 xs12 offset-lg3 mb-5>
                                                 <v-card dark class="px-4 py-4" color="grey darken-3">
                                                     <h3 class="subtitle mb-2">Entérate de las últimas novedades y venta de entradas</h3>
 
@@ -80,7 +80,7 @@
                                                         </v-btn>
                                                     </v-form>
                                                 </v-card>
-                                            </v-flex>
+                                            </v-flex-->
 
                                             <p class="subtitle">
                                                 <a target="_blank" class="white--text" href="http://2016.9punto5.cl">Versión 2016</a> <span class="mx-3">|</span>

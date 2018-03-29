@@ -15,7 +15,7 @@
                 <h1 class="display-1 mb-3">¿Quieres contarnos tu historia?</h1>
                 <h2 class="subheading mb-2">Estamos buscando speakers que se tomen el escenario de 9punto5 para compartir su historia - y nos encantaría que fueras tu. </h2>
                 <h4 class="body-2 mb-3">La versión 2018 de 9punto5 será el 7 y 8 de Septiembre en Hotel Villa del Río en Valdivia, Chile.</h4>
-                <v-btn href="https://docs.google.com/forms/d/e/1FAIpQLScQTWR1liwR7jZ7HAGXwKIobBw2Hvrxjk0uAAegAlgPiskppg/viewform" class="mb-4" small color="primary">Postula a una charla</v-btn>
+                <v-btn target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScQTWR1liwR7jZ7HAGXwKIobBw2Hvrxjk0uAAegAlgPiskppg/viewform" class="mb-4" small color="primary">Postula a una charla</v-btn>
             </v-flex>
         </v-layout>
 
@@ -68,7 +68,7 @@
 
     <v-flex xs12 class="px-3 text-lg-center text-md-center text-sm-center pt-5 mb-5">
         <h1 class="display-1 mb-3">Ahora que sabes todo...</h1>
-        <v-btn href="https://docs.google.com/forms/d/e/1FAIpQLScQTWR1liwR7jZ7HAGXwKIobBw2Hvrxjk0uAAegAlgPiskppg/viewform" small color="primary">Postula a una charla</v-btn>
+        <v-btn target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScQTWR1liwR7jZ7HAGXwKIobBw2Hvrxjk0uAAegAlgPiskppg/viewform" small color="primary">Postula a una charla</v-btn>
     </v-flex>
 
     <v-footer xs12 height="auto" style="width: 100%">

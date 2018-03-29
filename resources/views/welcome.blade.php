@@ -26,6 +26,13 @@
                                     </v-alert>
                                 </v-flex>
 
+                                <v-flex lg6 xs12 offset-lg3 mb-4>
+                                    <v-alert type="success" :value="true">
+                                        Postula con tu charla o "lightning talk". Más información
+                                        <a target="_blank" class="white--text" href="{{ route('home.submit') }}">aquí</a>.
+                                    </v-alert>
+                                </v-flex>
+
                             <!--v-flex lg6 xs12 offset-lg3 mb-5>
                                                 <v-card dark class="px-4 py-4" color="grey darken-3">
                                                     <h3 class="subtitle mb-2">Entérate de las últimas novedades y venta de entradas</h3>

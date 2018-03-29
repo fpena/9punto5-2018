@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="og:image" content="http://cloud.penya.cl/2S151x1f0n2m/download/36258126443_e077e374d7_k.jpg"/>
+    <meta name="og:image" content="https://d3vv6lp55qjaqc.cloudfront.net/items/2p153Z0D2q3g442e3k3N/36258126443_e077e374d7_k.jpg"/>
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
 

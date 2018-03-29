@@ -25,16 +25,16 @@
             <v-flex xs12 text-xs-center mb-5>
                 <h1 class="display-1 mb-3">¿Que debes saber?</h1>
             </v-flex>
-            <v-flex xs5>
+            <v-flex xs12 sm5>
                 <h3 class="headline mb-3">Temas</h3>
                 <p>Este año, queremos enfocarnos en experiencias de equipos con culturas de trabajo incipientes e innovadoras. Nos interesa exponer casos donde se hayan implementado políticas de trabajo relacionadas a la felicidad y productividad del empleado. También, como el desarrollo de un producto o servicio se ha visto impactado positivamente por la cultura de trabajo de tu empresa. Por último, experiencias de trabajo remoto en ámbitos no digitales (leyes, medicina, aviación, construcción, etc.).</p>
                 <p>Nos interesan personas críticas, disruptivas y/o conscientes respecto a las actuales culturas de trabajo en Chile y Latinoamérica. Que puedan exponer alternativas, casos de éxito y fallo en su experiencia laboral. Y que demuestren pasión y compromiso con el tema que están hablando.</p>
             </v-flex>
-            <v-flex xs5 offset-xs2>
+            <v-flex xs12 sm5 offset-sm2>
                 <h3 class="headline mb-3">Audiencia</h3>
                 <p>Los asistentes de 9punto5 están buscando mejorar sus habilidades blandas para adaptarse a nuevas culturas laborales y economías de trabajo a escala. La audiencia varía desde startups que desean confirmar sus culturas flexibles, hasta empresas de mediano y gran tamaño, que buscan innovar y complementar sus actuales prácticas laborales en sus empleados. Para el número de asistentes, espera algo cercano a 450 personas.</p>
                 <h3 class="headline mb-3">Estructura</h3>
-                <p>Estamos buscando postulaciones dedos tipos. Primero, una charla de 20 minutos (presentación más preguntas). Este es el formato más estándar. Por otro lado, habrá un bloque de "lightning talks". Cada una de estas duran 5 minutos.</p>
+                <p>Estamos buscando postulaciones de dos tipos. Primero, una charla de 20 minutos (presentación más preguntas). Este es el formato más estándar. Por otro lado, habrá un bloque de "lightning talks". Cada una de estas duran 5 minutos.</p>
             </v-flex>
         </v-layout>
 
@@ -44,7 +44,7 @@
             <v-flex xs12 text-xs-center mb-5>
                 <h1 class="display-1 mb-3">Consideraciones</h1>
             </v-flex>
-            <v-flex xs5>
+            <v-flex xs12 sm5>
                 <ul>
                    <li class="mb-2">Si eres seleccionado para la charla, obtendrás un ticket gratuito de acceso a los dos días del evento. Si eres seleccionado para una "lightning talk", deberás adquirir un ticket.</li>
                    <li class="mb-2">El equipo de 9punto5 será el responsable de elegir las charlas participantes. </li>
@@ -52,7 +52,7 @@
                 </ul>
             </v-flex>
 
-            <v-flex xs5 offset-xs2>
+            <v-flex xs12 sm5 offset-sm2>
                 <ul>
                     <li class="mb-2">Puedes realizar múltiples postulaciones para distintos tipos de charlas.</li>
                     <li class="mb-2">La fecha límite para las postulaciones es el día 25 de Mayo de 2018. Publicaremos resultados el 14 de Junio de 2018.</li>
